@@ -19,7 +19,16 @@ export const metadata: Metadata = {
   title: "apivot.me - Personal Profile for Everyone",
   description:
     "apivot.me旨在构建全球个人档案平台，连接中国和全球的用户，提供中文、英文和法语的多语言支持。",
-  keywords: ["global", "profile", "social", "交流", "中国", "英文", "法语"],
+  keywords: [
+    "global",
+    "personal",
+    "profile",
+    "social",
+    "交流",
+    "中国",
+    "英文",
+    "法语",
+  ],
   alternates: {
     canonical: "https://apivot.me",
     languages: {
